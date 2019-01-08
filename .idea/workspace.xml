@@ -75,29 +75,20 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mini_shop/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="110" column="4" selection-start-line="110" selection-start-column="4" selection-end-line="110" selection-end-column="4" />
+            <state relative-caret-position="405">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
-                <element signature="e#418#3029#0" />
                 <element signature="e#558#968#0" />
                 <element signature="e#1154#1609#0" />
                 <element signature="e#1793#2259#0" />
+                <element signature="e#2455#2844#0" />
                 <element signature="e#3028#3555#0" />
                 <element signature="e#2705#2771#0" />
                 <element signature="e#2840#2950#0" />
                 <element signature="e#3524#4997#0" />
                 <element signature="e#4533#5152#0" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="das://535d3a5c-18a9-410d-985c-1d8984eb416e/schema/main/table/mini_shop_userprofile">
-          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-            <state>
-              <filtering enabled="true" />
             </state>
           </provider>
         </entry>
@@ -125,6 +116,9 @@
       <find>serlizer</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -147,6 +141,7 @@
     <option name="width" value="1141" />
     <option name="height" value="600" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -183,6 +178,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -238,15 +234,15 @@
       <option name="presentableId" value="Default" />
       <updated>1546853834726</updated>
       <workItem from="1546853845815" duration="7375000" />
-      <workItem from="1546947871588" duration="9431000" />
+      <workItem from="1546947871588" duration="9694000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16806000" />
+    <option name="totallyTimeSpent" value="17069000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.21104388" />
@@ -265,7 +261,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="manage.py@mini_taobao" order="10" weight="0.6824877" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="12" weight="0.29787233" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.6579378" />
       <window_info anchor="bottom" id="Python Console" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -441,14 +437,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mini_shop/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="110" column="4" selection-start-line="110" selection-start-column="4" selection-end-line="110" selection-end-column="4" />
+        <state relative-caret-position="405">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
-            <element signature="e#418#3029#0" />
             <element signature="e#558#968#0" />
             <element signature="e#1154#1609#0" />
             <element signature="e#1793#2259#0" />
+            <element signature="e#2455#2844#0" />
             <element signature="e#3028#3555#0" />
             <element signature="e#2705#2771#0" />
             <element signature="e#2840#2950#0" />
